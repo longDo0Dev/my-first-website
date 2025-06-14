@@ -27,4 +27,4 @@
 
 ## ติดต่อ
 
-สอบถามเพิ่มเติมได้ที่: your.email@example.com
+สอบถามเพิ่มเติมได้ที่: Dongenjoy26@gmail.com
