@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-php-site
+    env: docker
+    repo: https://github.com/longDo0Dev/my-first-website
+    branch: main
+    dockerfilePath: Dockerfile
